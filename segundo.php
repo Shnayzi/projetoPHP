@@ -7,7 +7,7 @@
 	$resultado  = true;
 
 	echo "Data: $data <br />";
-	echo "Salário: $salario <br />"
+	echo "Salário: $salario <br />";
 	echo "Idade: $idade <br />";
 	echo "Cargo: $cargo <br />"; 
 

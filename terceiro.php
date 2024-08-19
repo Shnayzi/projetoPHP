@@ -11,6 +11,6 @@
 
 	$text = sprintf("%s recebe R$ %.2f por mês", $cargo, $salario*2);
 
-	echo $texto;
+	echo $text;
 
  ?>
